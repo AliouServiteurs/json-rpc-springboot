@@ -16,6 +16,8 @@ Il inclut :
 
 ---
 ## Exemple de capture avec postman et Test avec ClientApp
+<img width="965" height="586" alt="divide" src="https://github.com/user-attachments/assets/db05b413-99fd-4152-b249-a3256d32c0d6" />
+<img width="725" height="261" alt="ClienApp" src="https://github.com/user-attachments/assets/f28f47db-1108-4bcb-bc00-a60fd528c4a7" />
 
 ---
 ## ⚡ Fonctionnalités
