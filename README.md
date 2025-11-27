@@ -38,6 +38,7 @@ json-rpc-springboot/
 ├── src/
 │   ├── main/java/com/example/jsonrpc/
 │   │   ├── JsonRpcSpringbootApplication.java
+|   |   ├── client/ClientApp.java
 │   │   ├── controller/JsonRpcController.java
 │   │   ├── model/RpcRequest.java
 │   │   ├── model/RpcResponse.java
@@ -45,8 +46,6 @@ json-rpc-springboot/
 │   │   └── exception/RpcException.java
 │   └── test/java/com/example/jsonrpc/
 │       └── JsonRpcControllerTest.java
-├── client/
-│   └── ClientApp.java
 ├── .github/workflows/ci.yml
 ├── pom.xml
 └── README.md
