@@ -58,7 +58,7 @@ json-rpc-springboot/
 ### 1️⃣ Cloner le projet
 
 ```bash
-git clone https://github.com/votre-utilisateur/json-rpc-springboot.git
+git clone https://github.com/AliouServiteurs/json-rpc-springboot.git
 cd json-rpc-springboot
 ```
 
